@@ -1,0 +1,8 @@
+com/demo/cloudVendorService/service/impl/CloudVendorServiceImpl.class
+com/demo/cloudVendorService/CloudVendorServiceApplication.class
+com/demo/cloudVendorService/repository/CloudVendorRepository.class
+com/demo/cloudVendorService/model/CloudVendor.class
+com/demo/cloudVendorService/service/CloudVendorInterface.class
+com/demo/cloudVendorService/exception/CloudNotFoundException.class
+com/demo/cloudVendorService/exception/CloudVendorException.class
+com/demo/cloudVendorService/controller/cloudVendorController.class
